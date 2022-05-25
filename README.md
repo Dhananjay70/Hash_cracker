@@ -9,7 +9,7 @@ the function of hashing is to transform the any given key or a string of charact
 And this tool will crack the hash value into there orignal characters.
 
 ---------------------------------------------------------------------------
------------> How to use this tool \
+-----------> How to use this tool 
 
 In the repository the given file name is Hash_cracker.py means it is a python file.
 So, simply you can type 
